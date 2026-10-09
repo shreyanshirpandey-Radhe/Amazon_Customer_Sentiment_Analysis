@@ -26,7 +26,7 @@ This project analyzes customer reviews to understand customer sentiment, ratings
 * **Negative Reviews:** 14.42%
 
 ## Dashboard Preview
-![Amazon_Customer_Sentiment_Analysis_Dashboard](amazon_dashboard.png)
+![Amazon_Customer_Sentiment_Analysis_Dashboard](amazon_dashboard_img.png)
 
 ## Project Objective
 To transform customer review data into meaningful insights through data analysis and visualization.
