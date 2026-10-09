@@ -31,7 +31,3 @@ This project analyzes customer reviews to understand customer sentiment, ratings
 ## Project Objective
 To transform customer review data into meaningful insights through data analysis and visualization.
 
-
-
-To transform customer review data into meaningful insights through data analysis and visualization.
-
